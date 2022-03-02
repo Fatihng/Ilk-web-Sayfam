@@ -1,2 +1,2 @@
-# Ilk-web-Sayfam
-Oluşturduğum Html tabanlı ilk web sayfam
+# Patika_Front-End
+Patika'da bulunan Front-End patikalarının örneklerini koyduğum sayfam.
