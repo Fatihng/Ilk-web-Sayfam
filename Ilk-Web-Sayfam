@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Fatih Bucaklıoğlu</h1><br>
+    <!--Burada başlık olarak ismimi soy ismimi yazdım-->
+    <h2>Hakkımda</h2><br>
+    <!--Burada alt başlık olarak hakkımda yazısını yazdım-->
+    <p>Merhaba, Atatürk Üniversitesi Hukuk Fakültesi 2.sınıfta okuyorum. Boş zamanlarımda kitap okumayı ve yazılım dilleriyle uğraşmayı seviyorum. Hedefim bilişim hukukunda Türkiye adına önemli insanlar arasında olmak.</p>
+    <!--Burada paragraf halinde ilgilendiğim şeyleri yazdım ve kendim hakkında bilgi verdim.-->
+    <!--Ayrıca her satırdan sonra boşluk bıraktım bunun için <br> etiketini kullandım.-->
+</body>
+</html>
